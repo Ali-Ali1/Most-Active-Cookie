@@ -1,2 +1,2 @@
 # Most-Active-Cookie
-A python program that read through a log file of cookies and returns the most active cookie for a given date
+process a csv file of cookie logs and return the most active cookie on a given date
